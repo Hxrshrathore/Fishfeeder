@@ -1,4 +1,5 @@
 # 🐟 Arduino Fish Feeder with IoT 🤖
+[![Watch the video](https://img.youtube.com/vi/R6wbNkvBbZk/0.jpg)](https://www.youtube.com/watch?v=R6wbNkvBbZk)
 
 Welcome to the Arduino Fish Feeder project! This is a complete guide to building an automated fish feeder with IoT capabilities. With this project, you can feed your fish remotely, monitor water quality, and receive low battery alerts right from your smartphone.
 
